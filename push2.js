@@ -1,1 +1,1 @@
-console.log("Testing push event in githu");
+console.log("Testing push event in github");
