@@ -1,1 +1,1 @@
-console.log("Test Repo for github-app")
+console.log("Test Repo for github-app");
